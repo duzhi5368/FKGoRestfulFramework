@@ -1,0 +1,8 @@
+# server listen port
+server_port: 8080
+# db_user:password@tcp(localhost:3306)/my_db
+dsn: "picxx:BK4tJp5N68yDn64X@tcp(129.226.15.233:3306)/picxx"
+# json web token sign key
+jwt_signing_key: "LxsKJywDL5O5PvgODZhBH12KE6k2yL8E"
+# json web token sign expiration in hours
+jwt_expiration: 720
